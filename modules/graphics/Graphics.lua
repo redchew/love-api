@@ -3547,6 +3547,7 @@ return {
         require(path .. 'enums.AreaSpreadDistribution'),
         require(path .. 'enums.BlendAlphaMode'),
         require(path .. 'enums.BlendMode'),
+        require(path .. 'enums.CanvasFormat'),
         require(path .. 'enums.CompareMode'),
         require(path .. 'enums.CullMode'),
         require(path .. 'enums.DrawMode'),
@@ -3557,9 +3558,11 @@ return {
         require(path .. 'enums.LineStyle'),
         require(path .. 'enums.MeshDrawMode'),
         require(path .. 'enums.ParticleInsertMode'),
+        require(path .. 'enums.PixelFormat'),
         require(path .. 'enums.SpriteBatchUsage'),
         require(path .. 'enums.StackType'),
         require(path .. 'enums.StencilAction'),
+        require(path .. 'enums.TextureType'),
         require(path .. 'enums.VertexWinding'),
         require(path .. 'enums.WrapMode')
     }
