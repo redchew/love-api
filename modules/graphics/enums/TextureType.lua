@@ -3,7 +3,7 @@ return {
     description = 'Types of textures (2D, cubemap, etc.)',
     constants = {
         {
-            name = '2d',
+            name = '_2d',
             description = 'Regular 2D texture with width and height.',
         },
         {

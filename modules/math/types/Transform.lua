@@ -222,11 +222,6 @@ return {
                             name = '...',
                             description = 'Additional matrix elements.',
                         },
-                        {
-                            type = 'number',
-                            name = 'e4_4',
-                            description = 'The fourth column of the fourth row of the matrix.',
-                        },
                     },
                     returns = {
                         {
@@ -257,11 +252,6 @@ return {
                             type = 'number',
                             name = '...',
                             description = 'Additional matrix elements.',
-                        },
-                        {
-                            type = 'number',
-                            name = 'e4_4',
-                            description = 'The fourth column of the fourth row of the matrix.',
                         },
                     },
                     returns = {
